@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello! I'm glad to see you 👋
+
+My name is Wiktoria. I'm a third-year student at AGH University of Science and Technology in Krakow.
+
 
 <!--
 **WiktoriaBilska/WiktoriaBilska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
