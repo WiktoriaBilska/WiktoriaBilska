@@ -11,8 +11,7 @@ I am young Front-End Developer. I feel good with technologies like HTML, CSS, SA
 :briefcase: www.linkedin.com/in/wiktoria-bilska 
 
 
-### My projects 🧠 
-:point_down:
+### My projects 🧠  :point_down:
 
 <!--
 **WiktoriaBilska/WiktoriaBilska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
