@@ -11,7 +11,7 @@ I am young Front-End Developer. I feel good with technologies like HTML, CSS, SA
 :briefcase: www.linkedin.com/in/wiktoria-bilska 
 
 
-My projects 🧠 
+### My projects 🧠 
 :point_down:
 
 <!--
