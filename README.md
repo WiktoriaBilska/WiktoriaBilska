@@ -1,6 +1,6 @@
 ### Hello! I'm glad to see you 👋
 
-My name is Wiktoria. I'm a third-year Geoinformatic student at AGH University of Science and Technology in Krakow.
+My name is Wiktoria. I'm a third-year Geoinformatics student at AGH University of Science and Technology in Krakow.
 
 I am young Front-End Developer. I feel good with technologies like HTML, CSS, SASS, JavaScript ES6 and React.js.
 
