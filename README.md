@@ -6,5 +6,5 @@
 
 :briefcase: www.linkedin.com/in/wiktoria-bilska 
 
-:page_with_curl: [CV](https://drive.google.com/file/d/11-9CZUNAlFGQxHp3zdTET3W245nJy3Gg/view?usp=sharing)
+:page_with_curl: [CV](https://drive.google.com/file/d/1Sn64GsI-9cIwI9i2ap22DkMb3f0Z0nUk/view?usp=sharing)
 
